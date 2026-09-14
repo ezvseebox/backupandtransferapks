@@ -1,0 +1,8 @@
+{
+  "name": "EZ vSeeBox APK Backup Guide",
+  "short_name": "APK Guide",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#06000f",
+  "theme_color": "#9333ea"
+}
